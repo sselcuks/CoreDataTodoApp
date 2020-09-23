@@ -2,7 +2,7 @@
 
 ## Definition
 
-Simple todo application with SwiftUI and using Core Data. You can add or remove data. Data is persistant unless you are delete.
+Simple todo application with SwiftUI and using Core Data. You can add or remove data. Data is persistent until its deleted by the user.
 
 
 
